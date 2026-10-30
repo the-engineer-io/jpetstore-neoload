@@ -1,0 +1,10 @@
+login;password;cardtype;card number;expiration;firstname;lastname;address1;address2;City;State;Zip;Country
+user1;pass1;MasterCard;999 999 999 990 999;12/4;john;smith;901 San Antonio Road;MS UCUP02-206;Palo Alto;CA;94303;USA
+user2;pass2;American Express;888 999 999 939 999;21/5;peter;linn;123 Main street;;Santa Clara;CA;94303;USA
+user3;pass3;Visa;993 429 999 999 740;5/6;jack;bauer;345 Bill road;; Mountain View;CA;94303;USA
+user4;pass4;American Express;699 999 999 999 999;12/1;mike;delfino;2315 Miami Blvd;;Santa Clara;CA;94303;USA
+user5;pass5;MasterCard;999 973 299 999 999;12/7;susan;mayer;458  San Antonio Road;;Palo Alto;CA;94303;USA
+user6;pass6;Visa;359 999 972 699 999;3/2;clint;eastwood;124 Main street;;Santa Clara;CA;94303;USA
+user7;pass7;American Express;939 499 999 932 099;12/12;christopher;martin;Chateau les creissauds;Le clos rufisque;aubagne;;13400;France
+user8;pass8;Visa;632 499 999 999 999;23/10;eva;longoria;4150 Network Circle;;Santa Clara;CA;94303;USA
+user9;pass9;MasterCard;499 999 416 899 990;12/4;marcia;cross; 1600 Amphitheatre Parkway;; Mountain View;CA;94303;USA
